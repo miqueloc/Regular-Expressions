@@ -1,5 +1,5 @@
 # Regular-Expressions
-List of regex
+A list of useful regex for editing data.
 
 ### Put all rows in quotes
 ^(.+)$  
